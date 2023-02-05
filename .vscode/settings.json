@@ -1,0 +1,6 @@
+{
+    "ecl.launchConfiguration": "UGA",
+    "ecl.targetCluster": {
+        "UGA": "thor"
+    }
+}
