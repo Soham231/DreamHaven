@@ -1,6 +1,16 @@
-# FindYourParadise
+# DreamHaven
 
-An HPCC Systems Hackathon Challenge!
+To run this application: 
+  Navigate to the main directory (the one containing the images/ParadiseHackathon/states folder), 
+  and run "pip install -r requirements.txt" on the command line. This will install all needed
+  dependencies. After the command has run, use the command "streamlit run app.py" to run the 
+  application. 
+
+  If any problems are run into by the installation of Cartopy, uninstall geos and re-install 
+  it with brew using "brew install geos" (requires homebrew).
+
+
+n HPCC Systems Hackathon Challenge!
 
 # Challenge Overview
 
@@ -116,4 +126,3 @@ Data points will be created for each category, sorted by US State or by County. 
 </div>
 <div></div>
 </div>
-
